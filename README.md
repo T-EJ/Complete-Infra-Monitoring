@@ -1,4 +1,4 @@
-🚀 Complete Infrastructure Monitoring Using Prometheus and Grafana
+ 🚀 Complete Infrastructure Monitoring Using Prometheus and Grafana
 📌 Introduction
 Infrastructure monitoring is crucial in DevOps for detecting and resolving system issues proactively. This project demonstrates real-world infrastructure monitoring using Prometheus, Grafana, and Loki to dynamically monitor Docker, Kubernetes (AWS EKS), and AWS CloudWatch.
 
